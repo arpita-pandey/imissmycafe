@@ -7,7 +7,7 @@ document.getElementById("changeButton").addEventListener("click", function() {
     if (currentImage.endsWith("IMG_6776.jpeg")) {
         document.getElementById("mainImage").src = "Cat.jpeg";
     }
-    else {
+    else if (currentImage.endsWith("Cat.jpeg")) {
         document.getElementById("mainImage").src = "IMG_6776.jpeg";
     }
 });
