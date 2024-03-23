@@ -14,18 +14,11 @@ document.getElementById("changeButton").addEventListener("click", function() {
         document.getElementById("mainImage").src = "Fish2.png";
     }
     else if (currentImage.endsWith("Fish2.png")) {
-        document.getElementById("mainImage").src = "CM.png";
-    }
-});
-
-document.getElementById("changeBackgroundButton").addEventListener("click", function() {
-    var currentImage = document.getElementById("mainImage").src;
-    if (currentImage.endsWith("CM.png")) {
         document.getElementById("mainImage").src = "Plants2.png";
     }
     else if (currentImage.endsWith("Plants2.png")) {
         document.getElementById("mainImage").src = "Cups2.png";
-    }
+        }
     else if (currentImage.endsWith("Cups2.png")) {
         document.getElementById("mainImage").src = "CM.png";
     }
