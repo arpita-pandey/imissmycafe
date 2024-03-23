@@ -10,18 +10,18 @@ body {
 
 
 #mainImage {
-    width: 800px;
-    height: 600px;
+    width: 700px;
+    height: 700px;
     margin-bottom: auto;
 }
 
 #changeButton {
     padding: auto;
-    font-size: 40px;
+    font-size: 30px;
     font-family: garamond;
     background-color: cornsilk;
     color: black;
-    border: 7px solid black;
+    border: 5px solid black;
     cursor: pointer;
     border-radius: 5px;
 }
