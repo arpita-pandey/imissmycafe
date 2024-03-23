@@ -11,8 +11,9 @@ body {
 
 #mainImage {
     width: auto;
-    height: auto;
+    height: 300px;
     margin-bottom: auto;
+    align-items: center;
 }
 
 #changeButton {
