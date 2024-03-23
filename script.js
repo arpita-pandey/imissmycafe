@@ -11,9 +11,9 @@ document.getElementById("changeButton").addEventListener("click", function() {
         document.getElementById("mainImage").src = "Cat_2.png";
     }
     else if (currentImage.endsWith("Cat_2.png")) {
-        document.getElementById("mainImage").src = "Fish.png";
+        document.getElementById("mainImage").src = "Fish2.png";
     }
-    else if (currentImage.endsWith("Fish.png")) {
+    else if (currentImage.endsWith("Fish2.png")) {
         document.getElementById("mainImage").src = "Plants.png";
     }
     else if (currentImage.endsWith("Plants.png")) {
