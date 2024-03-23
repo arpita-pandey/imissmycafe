@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-color: linen;
 }
 
 .container {
@@ -19,7 +19,7 @@ body {
     padding: auto;
     font-size: 10px;
     font-family: garamond;
-    background-color: bisque;
+    background-color: linen;
     color: black;
     border: 3px solid black;
     cursor: pointer;
