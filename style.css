@@ -20,8 +20,8 @@ body {
     font-size: 40px;
     font-family: garamond;
     background-color: cornsilk;
-    color: lightsteelblue;
-    border: 7px solid powderblue;
+    color: black;
+    border: 7px solid black;
     cursor: pointer;
     border-radius: 5px;
 }
