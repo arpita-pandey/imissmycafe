@@ -1,5 +1,8 @@
 body {
     background-color: Cornsilk;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container {
@@ -13,7 +16,6 @@ body {
     width: auto;
     height: 300px;
     margin-bottom: auto;
-    align-items: center;
 }
 
 #changeButton {
